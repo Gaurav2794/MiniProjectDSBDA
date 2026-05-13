@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Resume Screening System
 
 ## Setup & Run
@@ -26,3 +27,6 @@
 - Preprocessing (NLTK)
 - Colored UI, progress bar
 
+=======
+# MiniProjectDSBDA
+>>>>>>> 9a467f49bd8743c30a0ccb88659c23133ab6754a
