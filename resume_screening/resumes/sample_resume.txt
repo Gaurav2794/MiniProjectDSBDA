@@ -1,0 +1,11 @@
+John Doe
+Data Analyst
+
+Experience:
+- 3 years Python, SQL, Pandas for data analysis
+- Excel expert
+- Machine Learning projects
+
+Skills:
+Python, SQL, Excel, Pandas, Data Visualization
+
